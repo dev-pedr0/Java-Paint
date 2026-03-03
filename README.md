@@ -7,8 +7,8 @@ Este projeto consiste no desenvolvimento de uma aplicação gráfica semelhante 
 - 🖱️ Desenhar livremente utilizando o mouse
 
 ## Como executar
-``
+```
 git clone https://github.com/dev-pedr0/Java-Paint
 Abra o projeto no IntelliJ IDEA
 Execute a classe principal (Main.java)
-``
+```
